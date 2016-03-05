@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00695c</color>
+    <color name="colorPrimaryDark">#004d40</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="global_color_control_highlight">#40000000</color>
+    <color name="global_color_clickable_inverse">#aaffffff</color>
+    <color name="separador">#bdbdbd</color>
+    <color name="global_color_selectable">#ededed</color>
+    <color name="global_bg_front">#ffffff</color>
+</resources>

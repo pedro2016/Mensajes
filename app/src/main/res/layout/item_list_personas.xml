@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="72dp">
+
+
+        <RelativeLayout
+            android:id="@+id/rlitemcategoria"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:id="@+id/img_persona"
+                android:layout_centerVertical="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:scaleType="centerCrop"
+                android:layout_margin="5dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Victor Alvarado"
+                android:id="@+id/Txtnombre_persona"
+
+                android:layout_marginLeft="16dp"
+                android:layout_marginStart="16dp"
+
+                android:layout_toRightOf="@+id/img_persona"
+                android:layout_toEndOf="@+id/img_persona"
+                android:layout_marginTop="16dp"
+                android:textColor="@color/abc_primary_text_material_light" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="Esto es una breve descripcion de victor alvarado para visualizar"
+                android:id="@+id/Txt_descrip_persona"
+
+                android:singleLine="false"
+                android:lines="1"
+                android:layout_below="@+id/Txtnombre_persona"
+                android:layout_alignLeft="@+id/Txtnombre_persona"
+                android:layout_alignStart="@+id/Txtnombre_persona"
+                android:layout_marginTop="9dp"
+                android:textColor="@color/abc_secondary_text_material_light" />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/separadodr"
+                android:background="@color/separador"
+                android:layout_alignParentBottom="true"
+                android:layout_alignRight="@+id/Txt_descrip_persona"
+                android:layout_alignEnd="@+id/Txt_descrip_persona"
+                android:layout_alignLeft="@+id/Txt_descrip_persona"
+                android:layout_alignStart="@+id/Txt_descrip_persona"
+                 />
+
+
+        </RelativeLayout>
+
+
+
+</LinearLayout>
