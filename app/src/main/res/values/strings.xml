@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">People</string>
+    <string name="app_name">Mi Agenda</string>
     <string name="action_settings">Settings</string>
 
     <!-- DATOS PARA LISTA DE PERSONAS -->
@@ -11,9 +11,9 @@
     <string name="profesionP1">Estudiante</string>
     <string name="estadocivilP1">Soltero</string>
     <string name="numeroP1">89652438</string>
-    <string name="emailP1">pedroalcerro@ejemplo.com</string>
-    <string name="facebookP1">pedroalcerro</string>
-    <string name="twitterP1">leonardo@1201</string>
+    <string name="emailP1">pedroalcerro@gmail.com</string>
+    <string name="facebookP1">https://www.facebook.com/pedro.alcerro</string>
+    <string name="twitterP1">https://twitter.com/pedroalcerr1</string>
 
     <!-- PERSONA 2 -->
     <string name="nombreP2">Angel Aleman</string>
@@ -23,7 +23,7 @@
     <string name="estadocivilP2">Soltero</string>
     <string name="numeroP2">99703932</string>
     <string name="emailP2">angel.aleman1414@gmail.com</string>
-    <string name="facebookP2">wwww.facebook.com/angelaleman14</string>
+    <string name="facebookP2">http://wwww.facebook.com/angelaleman14</string>
     <string name="twitterP2">http://twitter.com/halamadrid14</string>
 
     <!-- PERSONA 3 -->
@@ -39,18 +39,18 @@
 
     <!-- PERSONA 4 -->
     <string name="nombreP4">Heber Ziliesar</string>
-    <string name="descripcionP4">Inspired by the latest trends of Material design, using cutting-edge technologies for a fresh and modern look. More design, all the time</string>
+    <string name="descripcionP4">Soy estudiante de la Universidad Jose Cecilio del valle estoy sacando la Ingenieria en Infotecnologia</string>
     <string name="edadP4">20</string>
-    <string name="profesionP4">Estudiante</string>
-    <string name="estadocivilP4">Soltero</string>
-    <string name="numeroP4">33990000</string>
-    <string name="emailP4">eunicegomez@ejemplo.com</string>
-    <string name="facebookP4">facebook.com</string>
-    <string name="twitterP4">twitter.com</string>
+    <string name="profesionP4">Bachillerato tecnico en computación</string>
+    <string name="estadocivilP4">Sin compromiso</string>
+    <string name="numeroP4">88261745</string>
+    <string name="emailP4">heberzp3@gmail.com</string>
+    <string name="facebookP4">https://www.facebook.com/heber.ziliesar</string>
+    <string name="twitterP4">https://twitter.com/Heber1333</string>
 
     <!-- PERSONA 5 -->
     <string name="nombreP5">Joel Suazo</string>
-    <string name="descripcionP5">Estudiantes de Infotecnologia</string>
+    <string name="descripcionP5">Estudiante de Ingenieria en Sistemas en UNITEC</string>
     <string name="edadP5">21</string>
     <string name="profesionP5">Estudiante</string>
     <string name="estadocivilP5">Soltero</string>
