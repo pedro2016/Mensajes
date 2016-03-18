@@ -24,7 +24,7 @@
     <string name="numeroP2">99703932</string>
     <string name="emailP2">angel.aleman1414@gmail.com</string>
     <string name="facebookP2">wwww.facebook.com/angelaleman14</string>
-    <string name="twitterP2">www.twitter.com/halamadrid14</string>
+    <string name="twitterP2">http://twitter.com/halamadrid14</string>
 
     <!-- PERSONA 3 -->
     <string name="nombreP3">Cesar Lopez</string>
@@ -49,15 +49,15 @@
     <string name="twitterP4">https://twitter.com/Heber1333</string>
 
     <!-- PERSONA 5 -->
-    <string name="nombreP5">Ricardo Maldonado</string>
-    <string name="descripcionP5">Inspired by the latest trends of Material design, using cutting-edge technologies for a fresh and modern look. More design, all the time</string>
-    <string name="edadP5">24</string>
+    <string name="nombreP5">Joel Suazo</string>
+    <string name="descripcionP5">Estudiantes de Infotecnologia</string>
+    <string name="edadP5">21</string>
     <string name="profesionP5">Estudiante</string>
     <string name="estadocivilP5">Soltero</string>
-    <string name="numeroP5">33990000</string>
-    <string name="emailP5">ricardomaldonado@ejemplo.com</string>
-    <string name="facebookP5">facebook.com</string>
-    <string name="twitterP5">twitter.com</string>
+    <string name="numeroP5">96772955</string>
+    <string name="emailP5">joel.mejia@ujcv.edu.hn.com</string>
+    <string name="facebookP5">https://www.facebook.com/joel.suazo.10</string>
+    <string name="twitterP5">https://twitter.com/joel_88106</string>
     <string name="title_activity_detalle_persona">DetallePersona</string>
     <string name="large_text">
         "Material is the metaphor.\n\n"
