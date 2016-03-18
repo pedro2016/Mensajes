@@ -110,7 +110,7 @@ public class Personas {
                 R.string.descripcionP1,
                 R.string.edadP1,
                 R.string.profesionP1,
-                R.drawable.person,
+                R.drawable.pedro,
                 R.string.estadocivilP1,
                 R.string.numeroP1,
                 R.string.emailP1,
