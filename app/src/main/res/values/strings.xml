@@ -11,9 +11,9 @@
     <string name="profesionP1">Estudiante</string>
     <string name="estadocivilP1">Soltero</string>
     <string name="numeroP1">89652438</string>
-    <string name="emailP1">pedroalcerro@ejemplo.com</string>
-    <string name="facebookP1">pedroalcerro</string>
-    <string name="twitterP1">leonardo@1201</string>
+    <string name="emailP1">pedroalcerro@gmail.com</string>
+    <string name="facebookP1">https://www.facebook.com/pedro.alcerro</string>
+    <string name="twitterP1">https://twitter.com/pedroalcerr1</string>
 
     <!-- PERSONA 2 -->
     <string name="nombreP2">Angel Aleman</string>
