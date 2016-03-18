@@ -27,11 +27,11 @@
     <string name="twitterP2">twitter.com</string>
 
     <!-- PERSONA 3 -->
-    <string name="nombreP3">Carlos Paz</string>
-    <string name="descripcionP3">Inspired by the latest trends of Material design, using cutting-edge technologies for a fresh and modern look. More design, all the time</string>
+    <string name="nombreP3">Cesar Lopez</string>
+    <string name="descripcionP3">Estudiante en la Universidad Jose Cecilio del Valle</string>
     <string name="edadP3">21</string>
     <string name="profesionP3">Estudiante</string>
-    <string name="estadocivilP3">Soltero</string>
+    <string name="estadocivilP3">En una Relacion</string>
     <string name="numeroP3">33990000</string>
     <string name="emailP3">carlospaz@ejemplo.com</string>
     <string name="facebookP3">facebook.com</string>
