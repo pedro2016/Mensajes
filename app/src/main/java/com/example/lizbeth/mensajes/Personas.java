@@ -77,7 +77,7 @@ public class Personas {
                 R.string.descripcionP3,
                 R.string.edadP3,
                 R.string.profesionP3,
-                R.drawable.cesarlo,
+                R.drawable.cesar2_0,
                 R.string.estadocivilP3,
                 R.string.numeroP3,
                 R.string.emailP3,
