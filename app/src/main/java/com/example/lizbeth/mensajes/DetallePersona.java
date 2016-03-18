@@ -132,7 +132,7 @@ public class DetallePersona extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 String url = "http://www.twitter.com";
-                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(url)));
+                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(getString(item.getTwitter_Link()))));
             }
         });
 
