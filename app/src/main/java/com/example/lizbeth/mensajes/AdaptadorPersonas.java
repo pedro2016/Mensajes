@@ -49,12 +49,6 @@ public class AdaptadorPersonas extends RecyclerView.Adapter<AdaptadorPersonas.Vi
         public ImageView foto;
 
 
-        public ViewHolder(View v) {
-            super(v);
-            //INFLAR VIEWS CON IDS
-            nombre = (TextView) v.findViewById(R.id.Txtnombre_persona2);
-            descripcion = (TextView) v.findViewById(R.id.Txt_descrip_persona2);
-            foto = (ImageView) v.findViewById(R.id.img_persona2);
-        }
+       
     }
 }
