@@ -3,6 +3,7 @@ package com.example.lizbeth.mensajes;
 import java.util.ArrayList;
 import java.util.List;
 
+
 /**
  * Created by Victor on 29/02/2016.
  */
@@ -77,7 +78,7 @@ public class Personas {
                 R.string.descripcionP3,
                 R.string.edadP3,
                 R.string.profesionP3,
-                R.drawable.cesar2,
+                R.drawable.cesarlo,
                 R.string.estadocivilP3,
                 R.string.numeroP3,
                 R.string.emailP3,
@@ -110,23 +111,23 @@ public class Personas {
                 R.string.descripcionP1,
                 R.string.edadP1,
                 R.string.profesionP1,
-                R.drawable.person,
+                R.drawable.pedro,
                 R.string.estadocivilP1,
                 R.string.numeroP1,
                 R.string.emailP1,
                 R.string.facebookP1,
                 R.string.twitterP1)
         );
-        PERSONAS_LIST.add(new Personas(R.string.nombreP2,
-                R.string.descripcionP2,
-                R.string.edadP2,
-                R.string.profesionP2,
-                R.drawable.aleman,
-                R.string.estadocivilP2,
-                R.string.numeroP2,
-                R.string.emailP2,
-                R.string.facebookP2,
-                R.string.twitterP2)
+        PERSONAS_LIST.add(new Personas(R.string.nombreP6,
+                R.string.descripcionP6,
+                R.string.edadP6,
+                R.string.profesionP6,
+                R.drawable.luis,
+                R.string.estadocivilP6,
+                R.string.numeroP6,
+                R.string.emailP6,
+                R.string.facebookP6,
+                R.string.twitterP6)
         );
         PERSONAS_LIST.add(new Personas(R.string.nombreP3,
                 R.string.descripcionP3,
