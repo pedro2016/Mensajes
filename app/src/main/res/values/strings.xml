@@ -11,9 +11,9 @@
     <string name="profesionP1">Estudiante</string>
     <string name="estadocivilP1">Soltero</string>
     <string name="numeroP1">89652438</string>
-    <string name="emailP1">pedroalcerro@ejemplo.com</string>
-    <string name="facebookP1">pedroalcerro</string>
-    <string name="twitterP1">leonardo@1201</string>
+    <string name="emailP1">pedroalcerro@gmail.com</string>
+    <string name="facebookP1">https://www.facebook.com/pedro.alcerro</string>
+    <string name="twitterP1">https://twitter.com/pedroalcerr1</string>
 
     <!-- PERSONA 2 -->
     <string name="nombreP2">Angel Aleman</string>
@@ -50,7 +50,7 @@
 
     <!-- PERSONA 5 -->
     <string name="nombreP5">Joel Suazo</string>
-    <string name="descripcionP5">Estudiantes de Infotecnologia</string>
+    <string name="descripcionP5">Estudiante de Ingenieria en Sistemas en UNITEC</string>
     <string name="edadP5">21</string>
     <string name="profesionP5">Estudiante</string>
     <string name="estadocivilP5">Soltero</string>
