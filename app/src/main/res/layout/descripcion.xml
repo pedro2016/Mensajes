@@ -27,7 +27,7 @@
         <View
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="?attr/dividerHorizontal" />
+            android:background="#37a5e9" />
 
         <TextView
             android:id="@+id/decripcionDetalle"
