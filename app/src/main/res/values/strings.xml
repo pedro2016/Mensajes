@@ -16,15 +16,15 @@
     <string name="twitterP1">leonardo@1201</string>
 
     <!-- PERSONA 2 -->
-    <string name="nombreP2">Lizbeth Castillo</string>
-    <string name="descripcionP2"> Estudia siclo tecnico profecional en el instituto tecnico rafael pineda ponce </string>
-    <string name="edadP2">15</string>
+    <string name="nombreP2">Angel Aleman</string>
+    <string name="descripcionP2"> Estudia Ingeniería en Infotecnología en la Universidad "José Cecilio del Valle"</string>
+    <string name="edadP2">21</string>
     <string name="profesionP2">Estudiante</string>
-    <string name="estadocivilP2">Soltera</string>
-    <string name="numeroP2">98652515</string>
-    <string name="emailP2">Lizbethcastillo@yahoo.com</string>
-    <string name="facebookP2">wwww.facebook.com/lizbethalcerro</string>
-    <string name="twitterP2">twitter.com</string>
+    <string name="estadocivilP2">Soltero</string>
+    <string name="numeroP2">99703932</string>
+    <string name="emailP2">angel.aleman1414@gmail.com</string>
+    <string name="facebookP2">wwww.facebook.com/angelaleman14</string>
+    <string name="twitterP2">twitter.com/halamadrid14</string>
 
     <!-- PERSONA 3 -->
     <string name="nombreP3">Cesar Lopez</string>
