@@ -162,6 +162,30 @@ public class Personas {
                 R.string.facebookP5,
                 R.string.twitterP5)
         );
+
+        PERSONAS_LIST.add(new Personas(R.string.nombreP6,
+                        R.string.descripcionP6,
+                        R.string.edadP6,
+                        R.string.profesionP6,
+                        R.drawable.luis,
+                        R.string.estadocivilP6,
+                        R.string.numeroP6,
+                        R.string.emailP6,
+                        R.string.facebookP6,
+                        R.string.twitterP6)
+        );
+
+        PERSONAS_LIST.add(new Personas(R.string.nombreP6,
+                        R.string.descripcionP6,
+                        R.string.edadP6,
+                        R.string.profesionP6,
+                        R.drawable.luis2,
+                        R.string.estadocivilP6,
+                        R.string.numeroP6,
+                        R.string.emailP6,
+                        R.string.facebookP6,
+                        R.string.twitterP6)
+        );
     }
 
     public int getNombre_Persona() {
