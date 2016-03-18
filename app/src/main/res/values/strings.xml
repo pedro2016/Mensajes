@@ -39,12 +39,12 @@
 
     <!-- PERSONA 4 -->
     <string name="nombreP4">Heber Ziliesar</string>
-    <string name="descripcionP4">Inspired by the latest trends of Material design, using cutting-edge technologies for a fresh and modern look. More design, all the time</string>
+    <string name="descripcionP4">Soy estudiante de la Universidad Jose Cecilio del valle estoy sacando la Ingenieria en Infotecnologia</string>
     <string name="edadP4">20</string>
-    <string name="profesionP4">Estudiante</string>
+    <string name="profesionP4">Bachillerato Tecnico en computación</string>
     <string name="estadocivilP4">Soltero</string>
-    <string name="numeroP4">33990000</string>
-    <string name="emailP4">eunicegomez@ejemplo.com</string>
+    <string name="numeroP4">88261745</string>
+    <string name="emailP4">heberzp3@gmail.com</string>
     <string name="facebookP4">facebook.com</string>
     <string name="twitterP4">twitter.com</string>
 
