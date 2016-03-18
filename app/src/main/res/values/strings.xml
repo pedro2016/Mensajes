@@ -49,7 +49,7 @@
     <string name="twitterP4">twitter.com</string>
 
     <!-- PERSONA 5 -->
-    <string name="nombreP5">Joel Mejia</string>
+    <string name="nombreP5">Joel Suazo</string>
     <string name="descripcionP5">Estudiantes de Infotecnologia</string>
     <string name="edadP5">21</string>
     <string name="profesionP5">Estudiante</string>
@@ -58,18 +58,6 @@
     <string name="emailP5">joel.mejia@ujcv.edu.hn.com</string>
     <string name="facebookP5">https://www.facebook.com/joel.suazo.10</string>
     <string name="twitterP5">https://twitter.com/joel_88106</string>
-
-    <!-- PERSONA 6 -->
-    <string name="nombreP6">Luis Torres</string>
-    <string name="descripcionP6">Actualmente cursa la carrerar de Ing.en Infotecnologia</string>
-    <string name="edadP6">28</string>
-    <string name="profesionP6">Estudiante</string>
-    <string name="estadocivilP6">Soltero</string>
-    <string name="numeroP6">33385518</string>
-    <string name="emailP6">luis.torres@ujcv.edu.hn.com</string>
-    <string name="facebookP6">https://www.facebook.com/lrtch</string>
-    <string name="twitterP6">https://twitter.com/lrtch</string>
-
     <string name="title_activity_detalle_persona">DetallePersona</string>
     <string name="large_text">
         "Material is the metaphor.\n\n"
