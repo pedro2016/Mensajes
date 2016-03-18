@@ -21,7 +21,7 @@
             android:textSize="24sp"
             android:fontFamily="sans-serif-light"
             android:text="Acerca de:"
-            android:textColor="#f51414"
+            android:textColor="#1c1c1d"
             android:textStyle="italic" />
 
         <View
