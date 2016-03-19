@@ -47,7 +47,7 @@ public class Personas {
 
     }
 
-    //DECLARACION DE UN LISTA DE TIPO Personas
+    //DECLARACION DE UNA LISTA DE TIPO PERSONAS
     public static final List<Personas> PERSONAS_LIST = new ArrayList<Personas>();
 
     static {
