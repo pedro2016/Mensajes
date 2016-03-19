@@ -28,6 +28,8 @@ public class DetallePersona extends AppCompatActivity {
     TextView edad;
     TextView Profesion_Persona;
 
+
+
     TextView EstadoCivil_persona;
     TextView Numero_Persona;
     TextView Email_Persona;
